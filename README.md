@@ -1,6 +1,6 @@
 ### Hi, I'm Ertan 🤙
 
-Frontend developer. 
+Software developer. 
 
 #### Contact Information:
 - Email: `ertansofia <at> gmail.com`
