@@ -1,7 +1,6 @@
 ### Hi, I'm Ertan 🤙
 
-Front-end Developer
-
+Front-end Developer from Bulgaria, exploring the world of web development,learn new things every day and expandign my skills.
 
 
 #### Contact Information:
