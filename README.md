@@ -1,6 +1,8 @@
 ### Hi, I'm Ertan 🤙
 
-Web Developer
+Front-end Developer
+
+
 
 #### Contact Information:
 - Email: `ertansofia <at> gmail.com`
