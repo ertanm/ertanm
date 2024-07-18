@@ -6,7 +6,6 @@ Front-end Developer from Bulgaria, exploring the world of web development,learn 
 #### Contact Information:
 - Email: `ertansofia <at> gmail.com`
 - Linkedin: [highpriesst](https://www.linkedin.com/in/highpriesst/)
-- Personal Website [highpriesst.com](https://www.highpriesst.com)
 
 Things I code with :
 
