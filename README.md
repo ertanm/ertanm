@@ -1,7 +1,6 @@
 ### Hi, I'm Ertan 🤙
 
-Software Enginner.
-
+Software Engineer.
 
 #### Contact Information:
 - Email: `ertansofia <at> gmail.com`
